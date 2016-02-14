@@ -12,6 +12,8 @@ permalink: /committee/
 #### 朱诗涵 / Shihan Zhu
 *Coordinator*
 
+鄞州高级中学高二学生，鄞高模联秘书长。
+
 #### 张傲 / Ao Zhang
 *Budget Manager*
 
@@ -27,4 +29,4 @@ permalink: /committee/
 #### 吴立凡 / Lifan Wu
 *Leader of volunteers*
 
-鄞州高级中学高一学生，模联社成员，参加过汇文国际中学生模拟联合国大会
+鄞州高级中学高一学生，模联社成员，参加过汇文国际中学生模拟联合国大会。
