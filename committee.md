@@ -26,3 +26,5 @@ permalink: /committee/
 
 #### 吴立凡 / Lifan Wu
 *Leader of volunteers*
+
+鄞州高级中学高一学生，模联社成员，参加过汇文国际中学生模拟联合国大会
