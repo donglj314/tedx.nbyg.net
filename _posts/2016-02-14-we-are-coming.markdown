@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TEDxYinzhouSeniorSchool 即将到来"
-date:   2016-02-14 13:06:20
+date:   2016-02-14 13:06:20 +0800
 categories: announcements
 ---
 感谢各位同学、老师、TEDxNingbo 组织者、TEDx 团队的支持：
