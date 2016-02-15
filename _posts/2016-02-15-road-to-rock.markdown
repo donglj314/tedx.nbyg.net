@@ -28,4 +28,4 @@ TEDxYinzhouSeniorSchool
 
 http://tedx.nbyg.net
 
-2016.6.18 即将到来
+2016.5.21 即将到来
