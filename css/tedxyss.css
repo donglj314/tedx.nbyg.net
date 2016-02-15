@@ -2,7 +2,7 @@
     background: #333;
     color: #fff;
     display: block;
-    padding: 10em;
+    padding: 6em;
 }
 .hero-left {
     display: inline-block;
@@ -16,6 +16,16 @@
     width: 50%;
     margin: 0;
     transition: 2s all ease;
+}
+@media (max-width: 600px) {
+    .hero {
+        padding: 3em;
+    }
+    .hero-left, .hero-right {
+        display: block;
+        width: 100%;
+        margin: 1em 0;
+    }
 }
 .hero-right#loading {
     opacity: 0;
