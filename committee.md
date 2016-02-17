@@ -38,3 +38,6 @@ permalink: /committee/
 *Leader of volunteers*
 
 鄞高高一学生，鄞高模联成员，鄞高学生会干事。
+
+##### 志愿者名单
+**崔越然** Cui Yueran **张恺阳** Zhang Kaiyang **郑锦阳** Zheng Jinyang **洪恺宁** Hong Kaining 
