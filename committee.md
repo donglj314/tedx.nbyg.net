@@ -14,6 +14,11 @@ permalink: /committee/
 
 鄞高高二学生，鄞高模联秘书长，曾负责与外校模联的联谊活动。
 
+#### 余瑜 / Yu Yu
+*Co-organizer
+
+鄞高模联指导老师，历史教师。
+
 #### 张傲 / Ao Zhang
 *Budget Manager*
 
