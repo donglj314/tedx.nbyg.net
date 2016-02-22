@@ -63,6 +63,12 @@
 .site-nav#loading {
     opacity: 0;
 }
+.color-dark {
+    background: #333 !important;
+}
+.no-border {
+    border: 0 !important;
+}
 .hero .page-link {
     color: #fff;
 }
