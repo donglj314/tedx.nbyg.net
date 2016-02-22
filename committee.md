@@ -14,6 +14,11 @@ permalink: /committee/
 
 鄞高高二学生，鄞高模联秘书长，曾负责与外校模联的联谊活动。
 
+#### 余瑜 / Yu Yu
+*Co-organizer*
+
+鄞高模联指导老师，历史教师。
+
 #### 张傲 / Ao Zhang
 *Budget Manager*
 
@@ -38,3 +43,6 @@ permalink: /committee/
 *Leader of volunteers*
 
 鄞高高一学生，鄞高模联成员，鄞高学生会干事。
+
+##### 志愿者名单
+**崔越然** Cui Yueran **张恺阳** Zhang Kaiyang **郑锦阳** Zheng Jinyang **洪恺宁** Hong Kaining 
