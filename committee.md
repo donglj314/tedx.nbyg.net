@@ -44,5 +44,8 @@ permalink: /committee/
 
 鄞高高一学生，鄞高模联成员，鄞高学生会干事。
 
-##### 志愿者名单
-**崔越然** Cui Yueran **张恺阳** Zhang Kaiyang **郑锦阳** Zheng Jinyang **洪恺宁** Hong Kaining 
+##### 志愿者
+**吴立凡** Lifan Wu **崔越然** Cui Yueran **张恺阳** Zhang Kaiyang **郑锦阳** Zheng Jinyang **洪恺宁** Hong Kaining 
+
+##### Selection Committee
+**耿瑞宏** Ruihong Geng **张剑波** Jianbo Zhang **孙广平** Guangping Sun
