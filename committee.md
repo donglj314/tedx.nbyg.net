@@ -46,8 +46,14 @@ permalink: /committee/
 
 --------------------------
 
-##### 志愿者
-**吴立凡** Lifan Wu **崔越然** Cui Yueran **张恺阳** Zhang Kaiyang **郑锦阳** Zheng Jinyang **洪恺宁** Hong Kaining 
-
 ##### Selection Committee
 **耿瑞宏** Ruihong Geng **张剑波** Jianbo Zhang **孙广平** Guangping Sun
+
+##### Tech Committee
+**任一翔** Yixiang Ren **董林杰** Linjie Dong **时云潇** Yunxiao Shi
+
+##### CEM Committee
+**徐嘉淇** Jiaqi Xu **付毅宁** Yining Fu
+
+##### 志愿者
+**吴立凡** Lifan Wu **崔越然** Yueran Cui **张恺阳** Kaiyang Zhang **郑锦阳** Jinyang Zheng **洪恺宁** Kaining Hong
