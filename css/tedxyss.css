@@ -72,3 +72,7 @@
 .hero .page-link {
     color: #fff;
 }
+.avatar-heading {
+    height: 2em;
+    margin: 0 .3em;
+}
