@@ -5,7 +5,7 @@ permalink: /committee/
 ---
 
 #### 吕世博 / Shibo Lyu
-*Event Manager, Website Designer*
+*Event Manager, Website Designer & Maintainer*
 
 鄞高高二学生，Do 创客社社长，组织过青少年极客大会。
 
@@ -20,14 +20,14 @@ permalink: /committee/
 鄞高模联指导老师，历史教师。
 
 #### 张傲 / Ao Zhang
-*Budget Manager*
+*Budget & Venue Manager*
 
-鄞高高二学生，鄞高模联财务负责人。
+鄞高高二学生，鄞高模联财务相关负责人。
 
 #### 耿瑞宏 / Ruihong Geng
 *Leader of Selection Committee*
 
-鄞高高二学生，鄞高模联副秘书长，负责学术相关事务。
+鄞高高二学生，鄞高模联副秘书长，社团内负责学术相关事务。
 
 #### 任一翔 / Yixiang Ren
 *Leader of Tech Committee*
@@ -37,7 +37,7 @@ permalink: /committee/
 #### 徐嘉淇 / Jiaqi Xu
 *Leader of Communications, Editorial and Marketing Committee*
 
-鄞高高二学生，鄞高模联人事负责人。
+鄞高高二学生，鄞高模联人事相关负责人。
 
 #### 吴立凡 / Lifan Wu
 *Leader of volunteers*
