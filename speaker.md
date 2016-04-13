@@ -4,7 +4,7 @@ title: 讲者
 permalink: /speakers/
 ---
 
-## <img src="{{"/img/2016/spk/george_a_dunn.jpg" | prepend: site.prepend: site.cdn }}" class="avatar-heading"> George A. Dunn
+## <img src="{{"/img/2016/spk/george_a_dunn.jpg" | prepend: site.cdn }}" class="avatar-heading"> George A. Dunn
 *Philosophy Teacher at the University of Indianapolis*
 
 George A. Dunn teaches philosophy at the University of Indianapolis and is a visiting lecturer at the Ningbo Institute of Technology. He has published five books dealing with philosophy and culture, with a sixth book to be published later this year. He is currently working on a book that will compare the classical philosophical traditions of China and the West.
