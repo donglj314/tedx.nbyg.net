@@ -25,8 +25,8 @@
             </div>
             <div class="wrapper">
                 <div class="hero-left">
-                    <img src="{{ "img/2016/artworks/blooming.svg" | cdn }}" alt="Blooming" id="loading" class="hero-img img-blooming">
-                    <img src="{{ "img/logo.svg" | cdn }}" alt="TEDxYinzhouSeniorSchool" id="loading" class="hero-img hero-logo">
+                    <img src="{{ "/img/2016/artworks/blooming.svg" | prepend: site.cdn }}" alt="Blooming" id="loading" class="hero-img img-blooming">
+                    <img src="{{ "/img/logo.svg" | prepend: site.cdn }}" alt="TEDxYinzhouSeniorSchool" id="loading" class="hero-img hero-logo">
                 </div>
                 <div class="hero-right" id="loading">
                     <h1>Blooming</h1>
@@ -50,7 +50,7 @@
             </div>
         </div>
         {% include footer.html %}
-        <script src="{{ "/js/main.js" | cdn }}"></script>
+        <script src="{{ "/js/main.js" | prepend: site.cdn }}"></script>
     </body>
 
 </html>
