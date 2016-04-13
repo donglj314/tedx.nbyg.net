@@ -4,7 +4,7 @@ description: >
   This independent TEDx event is operated under license from TED.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://tedx.nbyg.net" # the base hostname & protocol for your site
-#cdn: "http://7xqwhy.com1.z0.glb.clouddn.com"
+cdn: "http://7xqwhy.com1.z0.glb.clouddn.com"
 weibo_username: 5092680387
 # Build settings
 markdown: kramdown
