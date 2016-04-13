@@ -97,3 +97,9 @@
     text-align: center;
     color: #fff !important;
 }
+.learn-more::after {
+    content: '》';
+    font-size: .7em;
+    line-height: 1em;
+    margin: 0 .2em;
+}
