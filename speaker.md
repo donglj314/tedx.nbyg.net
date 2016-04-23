@@ -4,6 +4,11 @@ title: 讲者
 permalink: /speakers/
 ---
 
+## <img src="{{"/img/2016/spk/jian_chen.jpg" | prepend: site.cdn }}" class="avatar-heading"> 陈俭
+*浙江大学医学院附属第一医院重症医学科医师*
+
+在浙江大学医学院附属第一医院重症医学科工作24年，一直在临床一线从事危重病救治工作。在面对死亡的挑战中感悟了生命和生存的矛盾，无法言语的危重病人需要医生为他们代言和抉择，沟通不只是语言，更需要是心灵的感应。
+
 ## <img src="{{"/img/2016/spk/george_a_dunn.jpg" | prepend: site.cdn }}" class="avatar-heading"> George A. Dunn
 *Philosophy Teacher at the University of Indianapolis*
 
