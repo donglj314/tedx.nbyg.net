@@ -4,6 +4,28 @@ title: 讲者
 permalink: /speakers/
 ---
 
+## <img src="{{"/img/2016/spk/anthony_chong.jpg" | prepend: site.cdn }}" class="avatar-heading"> Anthony Chong
+*Associate Professor*
+
+<details>
+<summary>English Introduction</summary>
+An Associate Professor in the School of Civil Engineering and Architecture, Ningbo Institute of Technology (NIT), Zhejiang University. Obtained his PhD in Building Technology at the University of Nottingham, UK in 2006.
+
+A registered Chartered Engineer (CEng) with the Engineering Council UK, and a member of Chartered Institute if Building Services Engineers (MCIBSE).
+
+Currently teaching Building Services, Sustainable Building Technology and Renewable Energy, and Environmental Science / Building Physics for Year 3 & 4 Architecture students at NIT.
+
+Interested in building services engineering, environmental science, building physics, renewable energy technologies application to promote the reduction of building energy consumption, cost and carbon dioxide emissions.
+</details>
+
+浙江大学宁波理工学院土木工程学院（NIT）副教授。2006 年在英国诺丁汉大学获得了建筑技术博士。
+
+英国工程理事会已注册的特许工程师（CEng）及屋宇装备工程师（MCIBSE）的成员。
+
+目前任教建筑服务、可持续建筑技术与可再生能源和环境科学与建筑物理。
+
+在建筑服务工程，环境科学，建筑物理，可再生能源技术降低建筑能耗，成本和减少碳排放方面感兴趣。
+
 ## <img src="{{"/img/2016/spk/jian_chen.jpg" | prepend: site.cdn }}" class="avatar-heading"> 陈俭
 *浙江大学医学院附属第一医院重症医学科医师*
 
