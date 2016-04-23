@@ -26,6 +26,11 @@ Interested in building services engineering, environmental science, building phy
 
 在建筑服务工程，环境科学，建筑物理，可再生能源技术降低建筑能耗，成本和减少碳排放方面感兴趣。
 
+## <img src="{{"/img/2016/spk/bin_li.jpg" | prepend: site.cdn }}" class="avatar-heading"> 李斌
+*吴剑鸣医院医生*
+
+1999 年毕业于宁波医学院分配到鄞州区吴剑鸣医院，从事外科工作。医院的工会文艺委员。
+
 ## <img src="{{"/img/2016/spk/bo_wu.jpg" | prepend: site.cdn }}" class="avatar-heading"> 吴波
 *职业创客*
 
@@ -50,6 +55,16 @@ George A. Dunn teaches philosophy at the University of Indianapolis and is a vis
 *浙江大学医学院附属第一医院重症医学科医师*
 
 在浙江大学医学院附属第一医院重症医学科工作24年，一直在临床一线从事危重病救治工作。在面对死亡的挑战中感悟了生命和生存的矛盾，无法言语的危重病人需要医生为他们代言和抉择，沟通不只是语言，更需要是心灵的感应。
+
+## <img src="{{"/img/2016/spk/joy_edmonson.jpg" | prepend: site.cdn }}" class="avatar-heading"> Joy Edmonson
+*EAP Tutor at the University of Nottingham Ningbo China*
+
+<details>
+<summary>English Introduction</summary>
+An American who has lived in China since 1999. Teachs English for Academic Purposes at the University of Nottingham Ningbo China. Has also lived and worked in Spain. Enjoys teaching and helping students learn English so that they can achieve their goals and realize their dreams.
+</details>
+
+自1999年以来在中国生活的美国人。在中国宁波诺丁汉大学教授学术英语。曾住在西班牙工作。喜欢教学，帮助学生学习英语，使他们能够实现自己的目标，实现自己的梦想。
 
 ## <img src="{{"/img/2016/spk/karen_l_newman.jpg" | prepend: site.cdn }}" class="avatar-heading"> Karen L. Newman
 *Assistant Professor of English at the University of Indianapolis/USA and Ningbo Institute of Technology*
