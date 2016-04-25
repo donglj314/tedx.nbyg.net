@@ -47,7 +47,7 @@ permalink: /committee/
 --------------------------
 
 ##### Selection Committee
-**耿瑞宏** Ruihong Geng **张剑波** Jianbo Zhang **孙广平** Guangping Sun
+**耿瑞宏** Ruihong Geng **张剑波** Jianbo Zhang **孙广平** Guangping Sun **励宇欣** Yuxin Li
 
 ##### Tech Committee
 **任一翔** Yixiang Ren **董林杰** Linjie Dong **时云潇** Yunxiao Shi **高远** Yuan Gao **舒欣源** Xinyuan Shu **游育成** Yucheng You
