@@ -51,11 +51,6 @@ George A. Dunn teaches philosophy at the University of Indianapolis and is a vis
 
 乔治·邓恩在印第安纳波利斯大学教授哲学，为浙大宁波理工学院的客座讲师。他已出版了涉及哲学和文化的五本书，今年晚些时候将会出版第六本。他目前正在写一本书，书中将比较中国和西方古典哲学传统。
 
-## <img src="{{"/img/2016/spk/jian_chen.jpg" | prepend: site.cdn }}" class="avatar-heading"> 陈俭
-*浙江大学医学院附属第一医院重症医学科医师*
-
-在浙江大学医学院附属第一医院重症医学科工作24年，一直在临床一线从事危重病救治工作。在面对死亡的挑战中感悟了生命和生存的矛盾，无法言语的危重病人需要医生为他们代言和抉择，沟通不只是语言，更需要是心灵的感应。
-
 ## <img src="{{"/img/2016/spk/joy_edmonson.jpg" | prepend: site.cdn }}" class="avatar-heading"> Joy Edmonson
 *EAP Tutor at the University of Nottingham Ningbo China*
 
