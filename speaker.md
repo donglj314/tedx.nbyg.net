@@ -71,6 +71,11 @@ Dr. Karen L. Newman is Assistant Professor of English at the University of India
 
 卡伦·纽曼博士是在印第安纳波利斯大学的英语助理教授。她在印第安纳大学语言教育系完成她的博士学位，尤其擅长对外英语教学（TESOL）和外语教学。纽曼博士一直在四大洲生活、学习、工作了 20 年，教学内容包括 TESOL、英美文学、英语非母语的基本写作。自2012年以来，她每个春季学期都来到宁波，于一个中美合作项目——印第安纳波利斯大学和宁波理工学院之间的联合学位课程任教。经常出席各类会议。她还开办了英语学习者写作课程和讲习班，当过职前教师、初中、高中教师和大学教师，包括在美国俄亥俄州立大学，韩国釜山国立大学和智利 Temuco 天主教大学。
 
+## <img src="{{"/img/2016/spk/shanshan_sun.jpg" | prepend: site.cdn }}" class="avatar-heading"> 孙珊珊
+*宁波鄞州高级中学在读学生*
+
+一个双鱼座女生，很喜欢幻想，于是就有了很多奇思妙想。想通过这次演讲将自己的想法表达出来，将生活的点滴与大家分享。曾经也是个极度不自信的人，但是高中生活使他改变了许多，对人生有了更多思考。
+
 ## <img src="{{"/img/2016/spk/xiaosong_zhou.jpg" | prepend: site.cdn }}" class="avatar-heading"> 周小淞
 *宁波诺丁汉大学在读博士*
 
