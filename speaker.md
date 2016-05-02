@@ -76,4 +76,9 @@ Dr. Karen L. Newman is Assistant Professor of English at the University of India
 
 浙江医科大学毕业，多年基层医疗服务经历，现在宁波市鄞州区第二医院重症医学科工作。
 
+## <img src="{{"/img/2016/spk/xiaosong_zhou.jpg" | prepend: site.cdn }}" class="avatar-heading"> 周小淞
+*宁波诺丁汉大学在读博士*
+
+具有七年材料和机械的背景，目前为宁波诺丁汉大学人机交互设计专业在读博士生，研究课题为信息偶遇现象在人们生活中的发生及其应用设计。曾多次参与国家级，省级项目的研究，目前主要参与国家青年科学基金项目——信息偶遇现象及其研究。多次参加国际性学术会议，包括人机和谐交互设计大会，用户体验大会等，并在与会时发表演讲及论述，相关研究成果在国内外期刊上均有发表。
+
 **More coming soon...**
