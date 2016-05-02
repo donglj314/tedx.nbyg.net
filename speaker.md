@@ -36,6 +36,11 @@ Interested in building services engineering, environmental science, building phy
 
 曾在某汽车厂商从事电动车开发，目前是某创客空间的联合发起人和运营者，在做创客活动的同时，与一起的 Maker 进行开源电动车和 3D 打印的探索。
 
+## <img src="{{"/img/2016/spk/cai_liang.jpg" | prepend: site.cdn }}" class="avatar-heading"> Cai Liang
+*English Teacher at School of Foreign Language Studies, Ningbo Institute of Technology, Zhejiang University*
+
+CAI Liang is Associate Professor at School of Foreign Language Studies, Ningbo Institute of Technology, Zhejiang University, where he teaches Intercultural Communication, and Intensive Reading for English majors, and has served as Deputy Dean of the School from 2014 till now. He got his Med in TESOL from Sydney University in 2005, and his Doctoral degree from Shanghai International Studies University in 2013. He was a visiting scholar at University of Wisconsin, Madison, USA from Aug. 2013 to Aug. 2014. He is currently doing his post-doc research in Zhejiang University. His main academic interest lies in Intercultural Communication, Entrepreneurship and Service-learning, focusing on integrating language teaching into community service. He is the initiator of a national brand project: Beyond the Voices, a project helping Ningbo expatriates for their cultural adaption, and the initiator of Yang Ming Academy in Ningbo Institute of Technology, Zhejiang University. He was awarded the Title of “Leading Talent in Ningbo City”, in 2012 and 2015.
+
 ## <img src="{{"/img/2016/spk/chao_wei.jpg" | prepend: site.cdn }}" class="avatar-heading"> 魏超
 *浙大宁波理工学院学生*
 
