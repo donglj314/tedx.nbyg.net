@@ -86,6 +86,9 @@ Dr. Karen L. Newman is Assistant Professor of English at the University of India
 
 在校学生，体验过不同的校内外生活，有着我们这一代共同的思想，并试图寻找我们这一代人生活的幸福。
 
+## <img src="{{"/img/2016/spk/yijia_lou.jpg" | prepend: site.cdn }}" class="avatar-heading"> 楼一家
+*鄞州高级中学语文教师*
+
 ## <img src="{{"/img/2016/spk/zhigang_lyu.jpg" | prepend: site.cdn }}" class="avatar-heading"> 吕志刚
 *宁波鄞州第二医院重症医学科医生*
 
