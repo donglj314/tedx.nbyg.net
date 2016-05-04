@@ -107,5 +107,3 @@ Dr. Karen L. Newman is Assistant Professor of English at the University of India
 *宁波鄞州第二医院重症医学科医生*
 
 浙江医科大学毕业，多年基层医疗服务经历，现在宁波市鄞州区第二医院重症医学科工作。
-
-**More coming soon...**
