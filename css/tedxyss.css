@@ -1,3 +1,14 @@
+/** 你若安好，便是晴天 **/
+html {
+    filter:progid:DXImageTransform.Microsoft.BasicImage(grayscale=1);
+    -webkit-filter: grayscale(100%);
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+    html {
+        -webkit-transform: translateZ(0);
+    }
+}
 .hero {
     background: #333;
     color: #fff;
