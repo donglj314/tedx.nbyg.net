@@ -56,4 +56,4 @@ permalink: /committee/
 **徐嘉淇** Jiaqi Xu **付毅宁** Yining Fu
 
 ##### 志愿者
-**吴立凡** Lifan Wu **崔越然** Yueran Cui **张恺阳** Kaiyang Zhang **郑锦阳** Jinyang Zheng **洪恺宁** Kaining Hong
+**吴立凡** Lifan Wu **崔越然** Yueran Cui **张恺阳** Kaiyang Zhang **郑锦阳** Jinyang Zheng **洪恺宁** Kaining Hong **施弘源** Hongyuan Shi**方倩倩** Qianqian Fang
