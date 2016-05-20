@@ -3,7 +3,7 @@ layout: page
 title: 直播
 permalink: /live
 ---
-<object type="application/x-shockwave-flash" data="http://static.hdslb.com/live-static/swf/LivePlayerEx_1.swf?2016052001" width="100%" id="player_object" style="visibility: visible;">
+<object type="application/x-shockwave-flash" data="http://static.hdslb.com/live-static/swf/LivePlayerEx_1.swf?2016052001" width="100%" height="600" id="player_object" style="visibility: visible;">
   <param name="allowfullscreeninteractive" value="true">
   <param name="allowfullscreen" value="true">
   <param name="quality" value="high">
