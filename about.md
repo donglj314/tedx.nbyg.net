@@ -3,6 +3,7 @@ layout: page
 navtitle: 关于
 title: 关于
 permalink: /about
+current: true.
 ---
 # About TEDxYinzhouSeniorSchool
 TEDxYinzhouSeniorSchool 是于 TED 官方备案的正式 TEDx (Youth) 活动，为非盈利性非政府性的独立活动，由学生自主发起并筹备，于宁波鄞州高级中学举行。第一届活动主题为「Blooming 绽放」。
