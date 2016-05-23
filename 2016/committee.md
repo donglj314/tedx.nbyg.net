@@ -1,7 +1,9 @@
 ---
 layout: page
-title: 组委
-permalink: /committee/
+navtitle: 组委
+title: 2016 届组委
+permalink: /2016/committee/
+current: true
 ---
 
 #### 吕世博 / Shibo Lyu

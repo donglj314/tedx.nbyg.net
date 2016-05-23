@@ -15,8 +15,10 @@
 
       <div class="trigger">
         {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% if page.navtitle %}
+          {% if page.current %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.navtitle }}</a>
+          {% endif %}
           {% endif %}
         {% endfor %}
       </div>
