@@ -2,7 +2,7 @@
 layout: page
 navtitle: 组委
 title: 2016 届组委
-permalink: /2016/committee/
+permalink: /2016/committee
 current: true
 ---
 
