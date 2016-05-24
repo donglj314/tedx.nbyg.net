@@ -114,3 +114,29 @@
     line-height: 1em;
     margin: 0 .2em;
 }
+.content-block {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.content-block>img {
+    max-width: 800px;
+    width: 100%;
+}
+.bg-blue {
+    background: #2196F3;
+}
+.bg-blue>h2, .bg-blue>p {
+    color: rgba(255,255,255,0.87);
+}
+.bg-green {
+    background: #4CAF50;
+}
+.bg-green>h2, .bg-green>p {
+    color: rgba(0,0,0,0.87);
+}
+.bg-indigo {
+    background: #3F51B5;
+}
+.bg-indigo>h2, .bg-indigo>p {
+    color: rgba(255,255,255,0.87);
+}
