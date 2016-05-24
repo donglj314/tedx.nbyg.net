@@ -6,17 +6,19 @@ permalink: /2016/review
 current: true
 ---
 
-<div class="hero wrapper">
-  <div class="hero-left">
-    <img src="{{ "/img/2016/artworks/blooming.svg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }}" alt="Blooming" class="hero-img img-blooming">
-  </div>
-  <div class="hero-right">
-    <h1>Blooming</h1>
-    <h2>2016 年 5 月 21 日</h2>
-    <h3>宁波鄞州高级中学</h3>
-    <p>
-      告别禁锢思想的时代，发出属于自己的声音，传播值得传播的思想。
-    </p>
+<div class="hero">
+  <div class="wrapper">
+    <div class="hero-left">
+      <img src="{{ "/img/2016/artworks/blooming.svg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }}" alt="Blooming" class="hero-img img-blooming">
+    </div>
+    <div class="hero-right">
+      <h1>Blooming</h1>
+      <h2>2016 年 5 月 21 日</h2>
+      <h3>宁波鄞州高级中学</h3>
+      <p>
+        告别禁锢思想的时代，发出属于自己的声音，传播值得传播的思想。
+      </p>
+    </div>
   </div>
 </div>
 
