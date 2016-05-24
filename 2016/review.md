@@ -28,7 +28,7 @@ current: true
   <section class="wrapper">
     <h2>浙江头一遭</h2>
     <p>
-      2016 年 5 月 21 日，TEDxYinzhouSeniorSchool 在宁波鄞州高级中学成功举办，成为浙江第一个由 TED 官方核准的，由高中生自主举办、学校承办的 TEDxYouth 活动。
+      2016 年 5 月 21 日，TEDxYinzhouSeniorSchool 在宁波鄞州高级中学成功举办，成为浙江第一个由 TED 官方核准、高中生自主举办、学校承办的 TEDxYouth 活动。
     </p>
     <img src="{{ "/img/2016/all.jpg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }}">
   </section>
