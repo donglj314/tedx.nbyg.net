@@ -1,10 +1,14 @@
----
-layout: default
----
-<div class="post">
+<!DOCTYPE html>
+<html>
 
-  <article class="post-content">
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
     {{ content }}
-  </article>
+    {% include footer.html %}
 
-</div>
+  </body>
+
+</html>
