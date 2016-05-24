@@ -41,7 +41,7 @@ current: true
 </div>
 
 <div class="content-block bg-indigo">
-  <section class="wrapper content-block bg-indigo">
+  <section class="wrapper">
     <h2>Featured Talk:</h2>
     <h2>Native or Nonnative English-Speaking Teachers: Who’s Better?</h2>
     <p>
