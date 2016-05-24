@@ -115,8 +115,8 @@
     margin: 0 .2em;
 }
 .content-block {
-    margin-top: 2em;
-    margin-bottom: 2em;
+    padding-top: 2.5em;
+    padding-bottom: 2.5em;
 }
 .content-block>img {
     max-width: 800px;
