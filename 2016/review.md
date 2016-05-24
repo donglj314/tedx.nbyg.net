@@ -6,7 +6,7 @@ permalink: /2016/review
 current: true
 ---
 
-<div class="wrapper">
+<div class="hero wrapper">
   <div class="hero-left">
     <img src="{{ "/img/2016/artworks/blooming.svg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }}" alt="Blooming" class="hero-img img-blooming">
   </div>
