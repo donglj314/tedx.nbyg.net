@@ -18,6 +18,7 @@ current: true
       <p>
         告别禁锢思想的时代，发出属于自己的声音，传播值得传播的思想。
       </p>
+      <a href="/2016/committee">组委</a>&nbsp;<a href="/2016/speakers">讲者</a>
     </div>
   </div>
 </div>
