@@ -140,3 +140,9 @@
 .bg-indigo h2, .bg-indigo p {
     color: rgba(255,255,255,0.87);
 }
+.bg-purple {
+    background: #9C27B0;
+}
+.bg-purple h2, .bg-purple p {
+    color: rgba(255,255,255,0.87);
+}
