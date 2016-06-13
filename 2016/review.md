@@ -51,7 +51,7 @@ current: true
     <p>
       Karen L. Newman 在这个演讲中告诉我们，学英语也许并不一定需要外教。
     </p>
-    <a href="#" class="call2action">演讲视频稍后放出</a>
+    <a href="http://www.bilibili.com/video/av4951989/" class="call2action">演讲视频</a>
     <img src="{{ "/img/2016/karen_l_newman.jpg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }}">
   </section>
 </div>
@@ -62,7 +62,7 @@ current: true
     <p>
       此次活动共邀请到了 13 位不同身份的讲者，包括医生、高中教师、大学教授、创业者、高中生、在读博士等。从“悠悠华夏文明”到“中西方制度差异”，从“拖延症”到“医患关系”，从“学校教育”到“科技创新” ，每位讲者都以 TED 形式的 18min 短演讲向在场的听众展现了一幅广阔而生动的图景。
     </p>
-    <a href="#" class="call2action">演讲视频稍后放出</a>
+    <a href="/2016/videos" class="call2action">演讲视频</a>
     <img src="{{ "/img/2016/speakers.jpg" | prepend: site.cdn }}?bust={{ site.time | date: '%s' }}">
   </section>
 </div>
