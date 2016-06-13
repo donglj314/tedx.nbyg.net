@@ -20,6 +20,7 @@ current: true
       </p>
       <a class="learn-more" href="/2016/committee">组委</a>
       <a class="learn-more" href="/2016/speakers">讲者</a>
+      <a class="learn-more" href="/2016/videos">视频回顾</a>
     </div>
   </div>
 </div>
