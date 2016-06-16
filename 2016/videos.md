@@ -22,4 +22,6 @@ Karen L. Newman | 英语老师有必要以英语为母语吗？ | [Youku](http:/
 李斌 | 大叔和你聊早恋 | [Youku](http://v.youku.com/v_show/id_XMTYwOTgzNzI2MA==.html) | [B 站](http://www.bilibili.com/video/av4963287/)
 蔡亮 | 中国出了个王阳明 | [Youku](http://v.youku.com/v_show/id_XMTYxMDEyNjMzNg==.html) | 暂无
 
-所有视频已上传完成，按上传顺序排列。其中，优酷地址为 TEDxYinzhouSeniorSchool 官方视频地址。其他源由第三方提供，仅供参考和作为备用方案。
+所有视频已上传完成，按上传顺序排列。其中，优酷地址为 TEDxYinzhouSeniorSchool 官方视频地址。其他源由第三方提供，经过 TEDxYinzhouSeniorSchool 验证，仅供参考和作为备用方案。
+
+由于中国大陆政策及相关原因，部分视频已从相关网站下线。若您在海外，您可以通过第三方地址观看。
