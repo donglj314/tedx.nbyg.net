@@ -15,7 +15,7 @@ current: true
 Anthony Chong | 我们真的需要可再生能源技术吗？ | [Youku](http://v.youku.com/v_show/id_XMTYwODg4NjEyMA==.html) | [B 站](http://www.bilibili.com/video/av4953589/)
 Joy Edmonson | 什么是学术英语 | [Youku](http://v.youku.com/v_show/id_XMTYwODg4MzA4OA==.html) | [B 站](http://www.bilibili.com/video/av4953539/)
 George A. Dunn | 从苏格拉底和孔子说开去 | [Youku](http://v.youku.com/v_show/id_XMTYwODg1MDQ2NA==.html) | [B 站](http://www.bilibili.com/video/av4951717/)
-吕志刚 | 医患关系究竟症结何在 | [Youku](http://v.youku.com/v_show/id_XMTYwODg1Njg1Ng==.html) | [B 站](http://www.bilibili.com/video/av4951567/)
+吕志刚 | 医患关系究竟症结何在 | 已按相关规定下线 | [B 站](http://www.bilibili.com/video/av4951567/)
 Karen L. Newman | 英语老师有必要以英语为母语吗？ | [Youku](http://v.youku.com/v_show/id_XMTYwODg3ODE0NA==.html) | [B 站](http://www.bilibili.com/video/av4951989/)
 楼一家 | 中国传统的诵读方式：吟诵 | [Youku](http://v.youku.com/v_show/id_XMTYwODgzODI5Ng==.html) | [B 站](http://www.bilibili.com/video/av4951146/)
 吴波 | 硬件创新与生活 | [Youku](http://v.youku.com/v_show/id_XMTYwODg1OTQyNA==.html) | 暂无
