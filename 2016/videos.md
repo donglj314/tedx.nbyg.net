@@ -21,4 +21,4 @@ Karen L. Newman | 英语老师有必要以英语为母语吗？ | [Youku](http:/
 吴波 | 硬件创新与生活 | [Youku](http://v.youku.com/v_show/id_XMTYwODg1OTQyNA==.html) | 暂无
 李斌 | 大叔和你聊早恋 | [Youku](http://v.youku.com/v_show/id_XMTYwOTgzNzI2MA==.html) | [B 站](http://www.bilibili.com/video/av4963287/)
 
-其它视频将很快上传。其中，优酷地址为 TEDxYinzhouSeniorSchool 官方视频地址。来自其他源的视频仅供参考和作为备用方案。
+其它视频将很快上传。其中，优酷地址为 TEDxYinzhouSeniorSchool 官方视频地址。其他源由第三方提供，仅供参考和作为备用方案。
