@@ -19,5 +19,6 @@ George A. Dunn | 从苏格拉底和孔子说开去 | [Youku](http://v.youku.com/
 Karen L. Newman | 英语老师有必要以英语为母语吗？ | [Youku](http://v.youku.com/v_show/id_XMTYwODg3ODE0NA==.html) | [B 站](http://www.bilibili.com/video/av4951989/)
 楼一家 | 中国传统的诵读方式：吟诵 | [Youku](http://v.youku.com/v_show/id_XMTYwODgzODI5Ng==.html) | [B 站](http://www.bilibili.com/video/av4951146/)
 吴波 | 硬件创新与生活 | [Youku](http://v.youku.com/v_show/id_XMTYwODg1OTQyNA==.html) | 暂无
+李斌 | 大叔和你聊早恋 | 暂无 | [B 站](http://www.bilibili.com/video/av4963287/)
 
 其它视频将很快上传。其中，优酷地址为 TEDxYinzhouSeniorSchool 官方视频地址。来自其他源的视频仅供参考和作为备用方案。
