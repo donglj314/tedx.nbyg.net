@@ -7,33 +7,29 @@ categories: announcements
 
 经过 2016 届组委的反复商讨，参考了各位在 2016 届活动上的表现以及参选个人的意志，我们正式提名以下同学为 TEDxYinzhouSeniorSchool 2017 届组委候选人（按报名时间顺序）：
 
-<div style="text-align: center;">
+<h3 style="text-align: center;"> 吴立凡 Lifan Wu </h3>
 
-### 吴立凡 Lifan Wu
+<h3 style="text-align: center;"> 刘勇 Yong Liu </h3>
 
-### 刘勇 Yong Liu
+<h3 style="text-align: center;"> 陆婧怡 Jingyi Lu </h3>
 
-### 陆婧怡 Jingyi Lu
+<h3 style="text-align: center;"> 沈乔羽 Qiaoyu Shen </h3>
 
-### 沈乔羽 Qiaoyu Shen
+<h3 style="text-align: center;"> 陈嫦颖 Changying Chen </h3>
 
-### 陈嫦颖 Changying Chen
+<h3 style="text-align: center;"> 付毅宁 Yining Fu </h3>
 
-### 付毅宁 Yining Fu
+<h3 style="text-align: center;"> 王凯 Kai Wang （现高二） </h3>
 
-### 王凯 Kai Wang （现高二）
+<h3 style="text-align: center;"> 郑宇辉 Yuhui Zheng </h3>
 
-### 郑宇辉 Yuhui Zheng
+<h3 style="text-align: center;"> 吴庚 Geng Wu </h3>
 
-### 吴庚 Geng Wu
+<h3 style="text-align: center;"> 郑锦阳 Jinyang Zheng </h3>
 
-### 郑锦阳 Jinyang Zheng
+<h3 style="text-align: center;"> 杨一帆 Yifan Yang </h3>
 
-### 杨一帆 Yifan Yang
-
-### 崔越然 Yueran Cui
-
-</div>
+<h3 style="text-align: center;"> 崔越然 Yueran Cui </h3>
 
 希望选举能够依照《TEDxYinzhouSeniorSchool 基本决策条例》和 TEDx Rules，创造更辉煌的 TEDxYinzhouSeniorSchool！
 
