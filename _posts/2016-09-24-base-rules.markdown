@@ -12,9 +12,12 @@ TEDxYinzhouSeniorSchool 2016 年会成功举办了。按照惯例，为了给予
 
 <p style="text-align: right;">TEDxYinzhouSeniorSchool 2016 组委活动总管 吕世博</p>
 
-1. TEDxYSS 活动组委选举必须于至少包含**鄞高模拟联合国协会**和 **Do 创客社**的、有效参与投票人超过 30 人的社团联席会议上进行，仅由上一届组委提名的候选人能够参与**活动总管（Event Manager）**、**协调人（Coordinator）**、**财务总监（Budget Manager）**、Tech Committee Leader、Selection Committtee Leader、Contents, Editorial and Material Committee (CEMC) Leader 共六个职位的选举。
+1. TEDxYSS 活动组委选举必须于至少包含**鄞高模拟联合国协会**和 **Do 创客社**的、有效参与投票人超过 30 人的社团联席会议上进行，仅由上一届组委提名的候选人能够参与**活动总管（Event Manager）**、**协调人（Coordinator）**、**财务总监（Budget Manager）**、**Tech Committee Leader**、**Selection Committtee Leader**、**Contents, Editorial and Material Committee (CEMC) Leader** 共六个职位的选举。
 2. 若被提名的候选人声明退出选举而导致候选人不足 7 人时，需经上一届组委补充提名至 7 人方能举行选举。
 3. Volunteer Committee Leader 须于选举中现场提名，并实行至少 3 名候选人的差额选举。该职位候选人必须为鄞高当届新高一的学生。
 4. 选举采用公开投票方式当场计票，条件允许时应由上一届组委成员监票以保证公平。选举时间必须提前至少 3 小时通知上一届组委成员。选举过程中，任何在场人员除必要的自我介绍外，不得有任何拉票或疑似拉票的行为。
 5. 选举结束后，新一届申办委员会正式就任，在获得 TED 官方书面批准后方改组为组委，改组中不允许任何人加入委员会。旧一届委员会在核查并承认选举结果后自行宣布解散。组委一旦选定，除重新任命旧届组委重新按以上条目提名并重新选举外，不得变更。
 6. 本条例的制定、废除、修正应由当届（即上一次选举产生的）组委 2/3 以上绝对多数、或全体核心组委（第一条中涉及的 6 个职位）一致通过方能生效，且条件允许情况下应采用前者。任何对本条例的疑议应由审议并通过的当届组委活动总管予以释明，或裁定并无疑议。
+
+本条例于 2016 年 9 月 20 日由核心成员全体会议审议通过，由活动主管吕世博、协调人朱诗涵、CEMC Leader 徐嘉淇联合署名。
+
