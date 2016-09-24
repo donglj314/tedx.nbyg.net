@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TEDxYinzhouSeniorSchool 2017 组委提名名单"
-date:   2016-09-24 21:05:20 +0800
+date:   2016-09-24 21:57:20 +0800
 categories: announcements
 ---
 
