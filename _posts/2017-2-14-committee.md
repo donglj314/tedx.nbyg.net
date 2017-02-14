@@ -35,6 +35,6 @@ categories: announcements
 朱宏瑜 / Hongyu Zhu
 
 #### Volunteer & English Consultant
-周佳风 / Jiafeng Zhou
+周佳凤 / Jiafeng Zhou
 
 **TEDxYinzhouSeniorSchool 2017** 届组委会正式展开相关筹备工作。
