@@ -54,7 +54,7 @@
     margin-top: 2em;
     width: 75%;
 }
-.img-blooming#loading {
+.img-everything#loading {
     opacity: 0;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
