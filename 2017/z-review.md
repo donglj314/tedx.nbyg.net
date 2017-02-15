@@ -2,7 +2,7 @@
 layout: clear
 navtitle: 回顾
 title: 2016 届回顾
-permalink: /2017/2016review
+permalink: /2017/z-review
 current: true
 ---
 
