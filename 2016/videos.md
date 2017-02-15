@@ -3,7 +3,7 @@ layout: page
 navtitle: 视频
 title: 2016 届视频回顾
 permalink: /2016/videos
-current: true
+current: false
 ---
 
 讲者 | 演讲题目 | 优酷 | Bilibili | 磁力链
