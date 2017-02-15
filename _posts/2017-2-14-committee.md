@@ -5,7 +5,7 @@ date:   2017-02-14 18:00:00 +0800
 categories: announcements
 ---
 
-以下老师和同学为 **TEDxYinzhouSeniorSchool 2017** 届组委会成员：
+以下老师和同学为 **TEDxYinzhouSeniorSchool 2017** 组委会成员：
 
 #### Adviser
 杨锡鹏 / Xipeng Yang
@@ -37,4 +37,4 @@ categories: announcements
 #### Volunteer & English Consultant
 周佳凤 / Jiafeng Zhou
 
-**TEDxYinzhouSeniorSchool 2017** 届组委会正式展开相关筹备工作。
+**TEDxYinzhouSeniorSchool 2017** 组委会正式展开相关筹备工作。
