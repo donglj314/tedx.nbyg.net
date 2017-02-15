@@ -25,7 +25,7 @@ categories: announcements
 付毅宁 / Yining Fu
 
 #### Tech Manager
-郑宇辉 / Yuhui Zhen
+郑宇辉 / Yuhui Zheng
 
 #### Volunteer
 董林杰 / Linjie Dong
