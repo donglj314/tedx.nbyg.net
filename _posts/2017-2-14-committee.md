@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "TEDxYinzhouSeniorSchool 2017 组委名单"
+title:  "TEDxYinzhouSeniorSchool 2017 届组委名单"
 date:   2017-02-14 18:00:00 +0800
 categories: announcements
 ---
