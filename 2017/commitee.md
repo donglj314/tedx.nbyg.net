@@ -1,8 +1,8 @@
 ---
 layout: page
 navtitle: 组委
-title: 2016 届组委
-permalink: /2016/committee
+title: 2017 届组委
+permalink: /2017/committee
 current: true
 ---
 以下老师和同学为 **TEDxYinzhouSeniorSchool 2017** 组委会成员：
