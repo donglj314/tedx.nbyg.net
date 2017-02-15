@@ -1,6 +1,6 @@
 ---
 layout: page
-navtitle: 视频回顾
+navtitle: 视频
 title: 2016 届视频回顾
 permalink: /2016/videos
 current: true
