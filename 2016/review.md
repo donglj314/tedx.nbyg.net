@@ -3,7 +3,7 @@ layout: clear
 navtitle: 回顾
 title: 2016 届回顾
 permalink: /2016/review
-current: true
+current: false
 ---
 
 <div class="hero">
