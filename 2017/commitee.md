@@ -1,7 +1,7 @@
 ---
 layout: page
 navtitle: 组委
-title: 2017 届组委
+title: 2017 届组委名单
 permalink: /2017/committee
 current: true
 ---
