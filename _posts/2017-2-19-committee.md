@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "TEDxYinzhouSeniorSchool 2017 届组委会名单"
+date:   2017-02-19 18:00:00 +0800
+categories: announcements
+---
+
+是否有些热门的话题点燃你的满腔热血
+
+是否有些独树一帜的话题引起你的无穷回味
+
+是否有些简简单单的话题却让你思维无限
+
+本次TEDxYinzhouSeniorSchool活动将以字母「e」为核心主题
+
+「Education」
+
+「Excitement 」
+
+「Environment」
+
+「Economic」
+
+     ...  
+来自各方的讲者将在这里云集 讲述属于他们的话题
+
+精彩纷呈的内容 独具风格的主题 将在这里溅射出思维的火花 
+
+思维之门已经敞开 加入我们 让我们一起发现属于这个时代的「e」
+
+创新 教育 科技 探索 技术 
+
+这一次 你面前将呈现的是——「Everything」
+
+活动日期5.13  13:00到17:00
+
+敬请期待
+
+官网:http://tedx.nbyg.net/
+
+微博:TEDxYinzhouSeniorSchool
+
+TEDxYinzhouSeniorSchool组委宣
