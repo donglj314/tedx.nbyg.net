@@ -8,9 +8,9 @@ current: true.
 # About TEDxYinzhouSeniorSchool
 TEDxYinzhouSeniorSchool 是于 TED 官方备案的正式 TEDx (Youth) 活动，为非盈利性非政府性的独立活动，由学生自主发起并筹备，于宁波鄞州高级中学举行。
 
-2016届活动主题为「Blooming 绽放」。告别禁锢思想的时代，发出属于自己的声音，传播值得传播的思想。 [活动详情](/2017/z-review.md)
+2016届活动主题为「Blooming 绽放」。告别禁锢思想的时代，发出属于自己的声音，传播值得传播的思想。 [活动详情](http://tedx.nbyg.net//2017/z-review)
 
-2017届活动主题为「e」。在这里，遇见世界。 [活动详情](/_posts/2017-2-19-about.md)
+2017届活动主题为「e」。在这里，遇见世界。 [活动详情](http://tedx.nbyg.net//announcements/2017/02/19/about.html)
 
 # About TEDx, x = independently organized event
 In the spirit of ideas worth spreading, TEDx is a program of local, self-organized events that bring people together to share a TED-like experience. At a TEDx event, TED Talks video and live speakers combine to spark deep discussion and connection. These local, self-organized events are branded TEDx, where x = independently organized TED event. The TED Conference provides general guidance for the TEDx program, but individual TEDx events are self-organized. (Subject to certain rules and regulations.)
