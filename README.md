@@ -1,4 +1,7 @@
 # tedx.nbyg.net
+
+> Notice: This site was abandoned by TEDxYinzhouSeniorSchool 2017 Committee. They turned to use a WordPress-based solution on http://tedx.nbyg.net. This repo might not be continued, but I would try to host this somewhere as a part of my resume. @laosb
+
 Official website of TEDxYinzhouSeniorSchool.
 
 ## Notice
